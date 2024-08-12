@@ -1,5 +1,8 @@
-Installation
-To get started, you'll need to set up the project on your local machine:
+##Installation
+
+##To set up the project locally, follow these steps:
+
+Clone the Repository:
 
 Clone the Repository:
 
